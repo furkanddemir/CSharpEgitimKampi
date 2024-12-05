@@ -1,0 +1,7 @@
+C:\Users\Furkan Demir\source\repos\CSharpEgitimKampi\08_Metots\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\Furkan Demir\source\repos\CSharpEgitimKampi\08_Metots\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Demir\source\repos\CSharpEgitimKampi\08_Metots\bin\Debug\08_Metots.exe.config
+C:\Users\Furkan Demir\source\repos\CSharpEgitimKampi\08_Metots\bin\Debug\08_Metots.exe
+C:\Users\Furkan Demir\source\repos\CSharpEgitimKampi\08_Metots\bin\Debug\08_Metots.pdb
+C:\Users\Furkan Demir\source\repos\CSharpEgitimKampi\08_Metots\obj\Debug\08_Metots.exe
+C:\Users\Furkan Demir\source\repos\CSharpEgitimKampi\08_Metots\obj\Debug\08_Metots.pdb
