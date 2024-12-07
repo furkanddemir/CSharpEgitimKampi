@@ -58,6 +58,9 @@ Bu projede öncelikle veri tabanı bağlantısı yapıldı ve MSSQL ile tablolar
 
 ---
 
+📌 **Proje 10: Veri Tabanı Ürün-Kategori Ekleme Silme ve Güncelleme İşlemi**  
+
+Bu projede öncelikle veri tabanı bağlantısı yapıldı. Ardından veri tabanında bulunan tablolara uygun veri girişleri için bir konsol uygulaması yapıldı. Bu uygulamada kullanıcı veri tabanına yeni "Kategori Ekleme", "Ürün Ekleme", "Ürün Listeleme", "Ürün Silme" veya "Ürün Güncelleme" işlemleri yapabilmektedir.
 
 ---
 
