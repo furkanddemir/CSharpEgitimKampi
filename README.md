@@ -64,4 +64,10 @@ Bu projede öncelikle veri tabanı bağlantısı yapıldı. Ardından veri taban
 
 ---
 
+📌 **Proje 11: OOP Modülü: C# ile N Katmanlı Mimari Entity Layer**  
+
+Bu projede öncelikle veri tabanımızda bulunacak tablolar ve içerisindeki sütunlar belirlendi ve oluşturuldu.
+
+---
+
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
