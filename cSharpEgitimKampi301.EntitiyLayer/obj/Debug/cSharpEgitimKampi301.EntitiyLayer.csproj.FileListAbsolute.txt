@@ -1,0 +1,12 @@
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\bin\Debug\cSharpEgitimKampi301.EntitiyLayer.dll.config
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\bin\Debug\cSharpEgitimKampi301.EntitiyLayer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\bin\Debug\cSharpEgitimKampi301.EntitiyLayer.pdb
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.xml
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\obj\Debug\cSharpEgitimKampi301.EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\obj\Debug\cSharpEgitimKampi301.EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\obj\Debug\cSharpEg.3973CF86.Up2Date
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\obj\Debug\cSharpEgitimKampi301.EntitiyLayer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntitiyLayer\obj\Debug\cSharpEgitimKampi301.EntitiyLayer.pdb
