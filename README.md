@@ -74,6 +74,11 @@ Bu projede veri tabanımızda bulunacak tablolar ve içerisindeki sütunlar beli
 
 Bu projede öncelikle bir önceki projede oluşturduğumuz tabloları birbirleriyle ilişkilendirme işlemi yapıldı. Ardından oluşturulan projelere 'reference' ekleme yapıldı. AppConfig kısmından MSSQL bağlantısı yapıldı.
 
+---
+📌 **Proje 13 : OOP Modülü - Migration İşlemleri ve Abstract Interfacele**  
+
+Bu projede DataAccessLayer içinde daha önce oluşturduğumuz 'Abstract' klasörüne yeni 'Interface'ler eklendi. Bu oluşturduğumuz 'Interface'ler veri tabanımızda bulunan tablolara ekleme,silme, güncelleme işlemleri için bağlantı sağlandı.
 
 ---
+
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
