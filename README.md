@@ -66,8 +66,14 @@ Bu projede öncelikle veri tabanı bağlantısı yapıldı. Ardından veri taban
 
 📌 **Proje 11 (cSharpEgitimKampi301.EntitiyLayer): OOP Modülü: C# ile N Katmanlı Mimari Entity Layer**  
 
-Bu projede öncelikle veri tabanımızda bulunacak tablolar ve içerisindeki sütunlar belirlendi ve oluşturuldu.
+Bu projede veri tabanımızda bulunacak tablolar ve içerisindeki sütunlar belirlendi ve oluşturuldu.
 
 ---
 
+📌 **Proje 12 (cSharpEgitimKampi301.DataAccessLayer): OOP Modülü: Data Access Katmanı ve Context Sınıfı**  
+
+Bu projede öncelikle bir önceki projede oluşturduğumuz tabloları birbirleriyle ilişkilendirme işlemi yapıldı. Ardından oluşturulan projelere 'reference' ekleme yapıldı. AppConfig kısmından MSSQL bağlantısı yapıldı.
+
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
