@@ -1,0 +1,15 @@
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\bin\Debug\cSharpEgitimKampi301.EntityFrameworkProject.exe.config
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\bin\Debug\cSharpEgitimKampi301.EntityFrameworkProject.exe
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\bin\Debug\cSharpEgitimKampi301.EntityFrameworkProject.pdb
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\bin\Debug\EntityFramework.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\bin\Debug\EntityFramework.xml
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\cSharpEgitimKampi301.EntityFrameworkProject.csproj.AssemblyReference.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\cSharpEgitimKampi301.EntityFrameworkProject.Form1.resources
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\cSharpEgitimKampi301.EntityFrameworkProject.Properties.Resources.resources
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\cSharpEgitimKampi301.EntityFrameworkProject.csproj.GenerateResource.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\cSharpEgitimKampi301.EntityFrameworkProject.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\cSharpEg.E85BC4E5.Up2Date
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\cSharpEgitimKampi301.EntityFrameworkProject.exe
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.EntityFrameworkProject\obj\Debug\cSharpEgitimKampi301.EntityFrameworkProject.pdb
