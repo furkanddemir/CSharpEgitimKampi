@@ -80,5 +80,9 @@ Bu projede öncelikle bir önceki projede oluşturduğumuz tabloları birbirleri
 Bu projede DataAccessLayer içinde daha önce oluşturduğumuz 'Abstract' klasörüne yeni 'Interface'ler eklendi. Bu oluşturduğumuz 'Interface'ler veri tabanımızda bulunan tablolara ekleme,silme, güncelleme işlemleri için bağlantı sağlandı.
 
 ---
+📌 **Proje 13 : Orm Yapısı: Entity Framework DbFirst ve Model Oluşturma**
 
+Bu projede MSSQQL üzerinden yeni bir veri tabanı oluşturup tabloları ve sütunları ayarlandı. Ardından VSCode'da yeni bir proje açıldı ve içerisine ADO.NET Entity Data Model eklendi ve MSSQL'de oluşturulan veri tabanı bağlantısı yapıldı. 
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
