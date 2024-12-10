@@ -87,7 +87,7 @@ Bu projede MSSQQL üzerinden yeni bir veri tabanı oluşturup tabloları ve süt
 ---
 📌 **Proje 15 : Entity Framework Metotları ile Proje Uygulaması**
 
-Bu projede MSSQQL üzerinde ilk önce Admin tablosu oluşturuldu. Ardından form ekranına gerekli 'Toolbox'lar eklendi. Yeni kullanıcı ekleme,silme,güncellemei getirme işlemleri yapıldı.
+Bu projede MSSQL üzerinde ilk önce Admin tablosu oluşturuldu. Ardından form ekranına gerekli 'Toolbox'lar eklendi. Kullanıcıları listeleme, yeni kullanıcı ekleme,silme,güncellemei getirme işlemleri yapıldı.
 
 ---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
