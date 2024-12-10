@@ -85,4 +85,9 @@ Bu projede DataAccessLayer içinde daha önce oluşturduğumuz 'Abstract' klasö
 Bu projede MSSQQL üzerinden yeni bir veri tabanı oluşturup tabloları ve sütunları ayarlandı. Ardından VSCode'da yeni bir proje açıldı ve içerisine ADO.NET Entity Data Model eklendi ve MSSQL'de oluşturulan veri tabanı bağlantısı yapıldı. 
 
 ---
+📌 **Proje 15 : Entity Framework Metotları ile Proje Uygulaması**
+
+Bu projede MSSQQL üzerinde ilk önce Admin tablosu oluşturuldu. Ardından form ekranına gerekli 'Toolbox'lar eklendi. Yeni kullanıcı ekleme,silme,güncellemei getirme işlemleri yapıldı.
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
