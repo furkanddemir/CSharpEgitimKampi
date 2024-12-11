@@ -90,4 +90,9 @@ Bu projede MSSQQL üzerinden yeni bir veri tabanı oluşturup tabloları ve süt
 Bu projede MSSQL üzerinde ilk önce Admin tablosu oluşturuldu. Ardından form ekranına gerekli 'Toolbox'lar eklendi. Kullanıcıları listeleme, yeni kullanıcı ekleme,silme,güncellemei getirme işlemleri yapıldı.
 
 ---
+📌 **Proje 16 : Entity Framework - Tur Projesi Location İşlemleri**
+
+Bu projede MSSQL'de oluşturduğumuz tablolaradan biri olan 'Location' tablosunun form ekranı hazırlandı ve listeleme, ekleme, silme, güncelleme işlemleri yapıldı.
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
