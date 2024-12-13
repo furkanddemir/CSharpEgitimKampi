@@ -95,4 +95,10 @@ Bu projede MSSQL üzerinde ilk önce Admin tablosu oluşturuldu. Ardından form 
 Bu projede MSSQL'de oluşturduğumuz tablolaradan biri olan 'Location' tablosunun form ekranı hazırlandı ve listeleme, ekleme, silme, güncelleme işlemleri yapıldı.
 
 ---
+📌 **Proje 17 : Entity Framework - Tur Projesi Statistics Form Ekranı Projesi**
+![Ekran görüntüsü 2024-12-13 170537](https://github.com/user-attachments/assets/7d3c56d0-41f5-4ef5-ac3b-803915859219)
+
+Bu C# Windows Forms uygulaması, FrmStatistics formunda bir eğitim kampı veritabanından çeşitli istatistikleri görüntülemeyi amaçlayan bir yapıyı içeriyor. Form yüklendiğinde (FrmStatistics_Load metodu), veritabanından farklı sorgularla veri çekilerek çeşitli istatistikler hesaplanır ve etiketlere (Label) aktarılır. Örneğin, toplam lokasyon sayısı, kapasite toplamı, rehber sayısı, en yüksek kapasiteye sahip lokasyon, en yüksek fiyatlı lokasyon gibi veriler hesaplanır ve kullanıcıya gösterilir. Bu sayede, kullanıcı veri tabanındaki önemli bilgileri kolayca görebilir.
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
