@@ -100,5 +100,11 @@ Bu projede MSSQL'de oluşturduğumuz tablolaradan biri olan 'Location' tablosunu
 ![Ekran görüntüsü 2024-12-13 170537](https://github.com/user-attachments/assets/7d3c56d0-41f5-4ef5-ac3b-803915859219)
 
 Bu C# Windows Forms uygulaması, FrmStatistics formunda bir veri tabanından çeşitli istatistikleri görüntülemeyi amaçlayan bir yapıyı içeriyor. Form yüklendiğinde (FrmStatistics_Load metodu), veritabanından farklı sorgularla veri çekilerek çeşitli istatistikler hesaplanır ve etiketlere (Label) aktarılır. Örneğin, toplam lokasyon sayısı, kapasite toplamı, rehber sayısı, en yüksek kapasiteye sahip lokasyon, en yüksek fiyatlı lokasyon gibi veriler hesaplanır ve kullanıcıya gösterilir. 
+
+---
+📌 **Proje 18 : EntityState Komutları, Generic Repository Sınıfı ve Ef Sınıfları**
+
+Bu projede, Generic Repostory yapısını kurduk. EntityFramework klasörünün classları ayarlandı.
+
 ---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
