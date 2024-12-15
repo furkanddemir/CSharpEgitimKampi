@@ -1,0 +1,17 @@
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\obj\Debug\cSharpEgitimKampi301.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\obj\Debug\cSharpEgitimKampi301.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\cSharpEgitimKampi301.DataAccessLayer.dll.config
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\cSharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\cSharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\cSharpEgitimKampi301.EntitiyLayer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\cSharpEgitimKampi301.EntitiyLayer.pdb
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\cSharpEgitimKampi301.EntitiyLayer.dll.config
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\obj\Debug\cSharpEg.8F748E19.Up2Date
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\obj\Debug\cSharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\obj\Debug\cSharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\obj\Debug\cSharpEgitimKampi301.DataAccessLayer.Migrations.mig1.resources
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.DataAccessLayer\obj\Debug\cSharpEgitimKampi301.DataAccessLayer.csproj.GenerateResource.cache
