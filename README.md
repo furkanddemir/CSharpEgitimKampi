@@ -112,4 +112,10 @@ Bu projede, Generic Repostory yapısını kurduk. EntityFramework klasörünün 
 Bu projede, Business Layer içindeki Abstarct'lara miras alma işlemleri yapıldı. Concrete içine sınıflar oluşturuldu. Constructor yapıcı metot oluşturuldu. Presentation Layer içinde ' FrmCategory' adında yeni bir form ekranı açıldı ve içerisinde kullanılacak olan toolbox'lar eklendi. 
 
 ---
+📌 **Proje 20 :  Dependency Injection**
+
+Bu projede, 'Business Layer' içindeki 'OrderManager ve ProductManager' kısımlarında gerekli kodlar yazıldı.
+'Presentation Layer' kısmında bulunan 'FrmCategory' form ekranı için veri tabanında veri girişleri yapıldı. Ardından formdaki butonların kodları yazıldı.
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
