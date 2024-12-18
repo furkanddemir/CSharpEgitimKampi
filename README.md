@@ -110,5 +110,6 @@ Bu projede, Generic Repostory yapısını kurduk. EntityFramework klasörünün 
 📌 **Proje 19 :  Business Katmanı ve Logic Kurallar**
 
 Bu projede, Business Layer içindeki Abstarct'lara miras alma işlemleri yapıldı. Concrete içine sınıflar oluşturuldu. Presentation Layer içinde ' FrmCategory' adında yeni bir form ekranı açıldı ve içerisinde kullanılacak olan toolbox'lar eklendi. 
+
 ---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
