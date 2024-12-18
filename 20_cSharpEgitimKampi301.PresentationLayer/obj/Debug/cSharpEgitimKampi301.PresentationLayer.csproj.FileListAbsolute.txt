@@ -1,0 +1,39 @@
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.PresentationLayer.exe.config
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.PresentationLayer.exe
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.Properties.Resources.resources
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.exe
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.BusinessLayer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.BusinessLayer.pdb
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan Demir\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEg.C4B50F7D.Up2Date
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.PresentationLayer.exe.config
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.PresentationLayer.exe
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.BusinessLayer.dll
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.EntitiyLayer.dll
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.BusinessLayer.pdb
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.EntitiyLayer.pdb
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.EntitiyLayer.dll.config
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.FrmCategory.resources
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.Properties.Resources.resources
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEg.C4B50F7D.Up2Date
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.exe
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\obj\Debug\cSharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\fd393\source\repos\cSharpEgitimKampi301\cSharpEgitimKampi301.PresentationLayer\bin\Debug\cSharpEgitimKampi301.DataAccessLayer.dll.config
