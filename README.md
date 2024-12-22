@@ -118,4 +118,9 @@ Bu projede, 'Business Layer' içindeki 'OrderManager ve ProductManager' kısıml
 'Presentation Layer' kısmında bulunan 'FrmCategory' form ekranı için veri tabanında veri girişleri yapıldı. Ardından formdaki butonların kodları yazıldı.
 
 ---
+📌 **Proje 21 :  Entitye Özgü Metot Yazmak**
+
+Bu projede, 'Presentation Layer' içine 'FrmProduct' adında form ekranı eklendi ve içeriği düzenlendi. Daha sonra veri tabanından listeleme işlemi gerçekleştirildi.
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
