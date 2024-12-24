@@ -123,4 +123,9 @@ Bu projede, 'Business Layer' içindeki 'OrderManager ve ProductManager' kısıml
 Bu projede, 'Presentation Layer' içine 'FrmProduct' adında form ekranı eklendi ve içeriği düzenlendi. Daha sonra veri tabanından listeleme işlemi gerçekleştirildi.
 
 ---
+📌 **Proje 22 :  C# ile Dapper Kullanımı**
+
+Bu projede, 301 modülünde bulunan Presentation Layer'da FrmProduct kısmının kalan buton kodları yazıldı. Ardından 501 modülü için yeni bir form ekranı oluşturuldu ve gerekli araçlar eklendi. 'Dtos' klasörü oluşturarak SQL'den gelen tablomuzun özelliklerini tutmamıza yaracak olan kodlar yazıldı. Oluşturulan 'Repositories' klasöründe de gerekli class'lar eklendi ve kodlar yazıldı.
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
