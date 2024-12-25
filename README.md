@@ -130,6 +130,8 @@ Bu projede, 301 modülünde bulunan Presentation Layer'da FrmProduct kısmının
 ---
 📌 **Proje 23 :  Dapper İşlemlerinin Tamamlanması**
 
+![1](https://github.com/user-attachments/assets/40d7778b-0a01-457f-af2e-00861de44bad)
+
 Bu projede bir önceki Dapper işlemlerinin devamı yapıldı. Oluşturulan Form ekranında bulunan butonların kodları yazıldı ve aktif çalışır hale getirildi.
 
 ---
