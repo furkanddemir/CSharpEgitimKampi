@@ -135,4 +135,9 @@ Bu projede, 301 modülünde bulunan Presentation Layer'da FrmProduct kısmının
 Bu projede bir önceki Dapper işlemlerinin devamı yapıldı. Oluşturulan Form ekranında bulunan butonların kodları yazıldı ve aktif çalışır hale getirildi.
 
 ---
+📌 **Proje 24 :  C# ile MongoDb Kullanımı 1**
+
+Bu projede 601 modülüne geçildi ve yeni bir proje oluşturuldu. Yeni projede yeni bir form ekranı ve bu form ekranına 'label, toolbox, button'lar eklendi. MongoDB bağlantısı yapıldı ve tablo oluşturuldu. 
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
