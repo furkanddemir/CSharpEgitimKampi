@@ -137,6 +137,8 @@ Bu projede bir önceki Dapper işlemlerinin devamı yapıldı. Oluşturulan Form
 ---
 📌 **Proje 24 :  C# ile MongoDb Kullanımı 1**
 
+![Ekran görüntüsü 2024-12-26 172547](https://github.com/user-attachments/assets/279d9032-a2e2-4766-9a91-ec6bedcb7219)
+
 Bu projede 601 modülüne geçildi ve yeni bir proje oluşturuldu. Yeni projede yeni bir form ekranı ve bu form ekranına 'label, toolbox, button'lar eklendi. MongoDB bağlantısı yapıldı ve tablo oluşturuldu. 
 
 ---
