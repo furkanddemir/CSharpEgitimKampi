@@ -142,4 +142,11 @@ Bu projede bir önceki Dapper işlemlerinin devamı yapıldı. Oluşturulan Form
 Bu projede 601 modülüne geçildi ve yeni bir proje oluşturuldu. Yeni projede yeni bir form ekranı ve bu form ekranına 'label, toolbox, button'lar eklendi. MongoDB bağlantısı yapıldı ve tablo oluşturuldu. 
 
 ---
+📌 **Proje 25 :  C# ile MongoDb Kullanımı 2**
+
+![Ekran görüntüsü 2024-12-30 184730](https://github.com/user-attachments/assets/7da087d6-8c53-40c3-90ab-bdeba91ae117)
+
+Bu projede, oluşturduğumuz 'CustomerOperations' sınıfına "Listele, Sil, Güncelle ve ID'ye Göre Getir" işlemlerininiz kodları yazıldı. Daha sonra Form ekranının kod kısmında butonların özellikleri "CustomerOperations'dan" çağrılıp çalışır hale getirildi.
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
