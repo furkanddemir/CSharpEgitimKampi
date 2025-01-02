@@ -153,7 +153,7 @@ Bu projede, oluşturduğumuz 'CustomerOperations' sınıfına "Listele, Sil, Gü
 ![Ekran görüntüsü 2025-01-02 145016](https://github.com/user-attachments/assets/a7f423ac-0d7e-450f-a774-15b0bd4b73a6)
 ![Ekran görüntüsü 2025-01-02 145004](https://github.com/user-attachments/assets/e6ba3c84-e5ff-4b8a-9b4d-d787403cd1d8)
 
-Bu projede yeni bir form ekranı açarak PostgreSQL ile birlikte kullanıcı tablosu oluşturuldu. Bu kullanıcı tablosu sayesinde PostgreSQL'de oluşturulan tabloya kullanıcı ekleme, silme ve bu kullanıcının bilgilerini güncelleme' özellikleri eklendi.
+Bu projede 'FrmCustomers' adında yeni bir form ekranı açarak PostgreSQL ile birlikte kullanıcı tablosu oluşturuldu. Bu kullanıcı tablosu sayesinde PostgreSQL'de oluşturulan tabloya kullanıcı ekleme, silme ve bu kullanıcının bilgilerini güncelleme' özellikleri eklendi.
 
 
 ---
