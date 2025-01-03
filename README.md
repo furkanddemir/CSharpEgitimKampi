@@ -157,4 +157,14 @@ Bu projede 'FrmCustomers' adında yeni bir form ekranı açarak PostgreSQL ile b
 
 
 ---
+📌 **Proje 26 :   C# ile PostgreSQL Kullanımı 2**
+
+![Ekran görüntüsü 2025-01-03 215751](https://github.com/user-attachments/assets/996c517e-ec6c-42c7-b120-131f5c612153)
+![Ekran görüntüsü 2025-01-03 215838](https://github.com/user-attachments/assets/417a5de5-9c63-4f40-9996-906155c07c9d)
+
+
+Bu projede 'FrmDepartment' ve 'FrmEmployee' adında iki tane yeni form ekranı açarak PostgreSQL ile birlikte 'Departments ve Employees' tabloları oluşturuldu. Bu 'Departments' tablosuna veri girişleri yapıldı ve 'FrmEmployee' ekranında eklenen departmantlar 'ComboBox' ile çekildi. 'FrmEmployee' ekranında yeni çalışan ekleme işlemleri yapıldı.
+
+
+---
 Bu projeler, C# dilindeki temel konulara hakimiyet kazanmak ve yazılım geliştirme becerilerimi geliştirmek için oldukça faydalı oldu. 😊  
