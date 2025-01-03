@@ -157,7 +157,7 @@ Bu projede 'FrmCustomers' adında yeni bir form ekranı açarak PostgreSQL ile b
 
 
 ---
-📌 **Proje 26 :   C# ile PostgreSQL Kullanımı 2**
+📌 **Proje 27 :   C# ile PostgreSQL Kullanımı 2**
 
 ![Ekran görüntüsü 2025-01-03 215751](https://github.com/user-attachments/assets/996c517e-ec6c-42c7-b120-131f5c612153)
 ![Ekran görüntüsü 2025-01-03 215838](https://github.com/user-attachments/assets/417a5de5-9c63-4f40-9996-906155c07c9d)
